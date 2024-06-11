@@ -3,7 +3,8 @@
 ## Introduction
 In 2016, Cyclistic, a fictional bike-sharing company launched a successful bike-share program that has since grown to a fleet of 5,824 bicycles, geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders, while customers with annual memberships are Cyclistic members.
 
-Objective:
+**Objective:** 
+
 The primary objective of this project is to analyze how annual members and casual riders use Cyclistic bikes differently. Understanding these differences will help design targeted marketing strategies aimed at converting casual riders into annual members, aligning with Cyclistic's goal of maximizing profitability through increased membership. For this, the marketing analyst team wants to know:
 
  1. How do annual members and casual riders use Cyclistic bikes differently?
@@ -40,15 +41,27 @@ An extensive report of the data cleaning process can be found [here](https://git
   to determine the distance traveled by riders.
 
 ## ANALYSE
+
 A full summary of analysis can be found [here](https://github.com/Aiswariya-R/case_study_cyclistic/blob/main/Analysis.md).
 
 Several variables were explored to identify the differences in behavior between annual members and casual riders. These variables include:
+
 * Count of members and casual riders
 * Preferred month of ride
 * Preferred day and time of the week
 * Average duration and average length of ride
 * Preferred bike types
 * Most visited stations
+
+A few of the visualizations are shown here:
+
+![count](https://github.com/Aiswariya-R/case_study_cyclistic/assets/161332880/11eef2b4-03d1-4841-8a57-b4e0263b3046)
+
+![no_of_rides_month](https://github.com/Aiswariya-R/case_study_cyclistic/assets/161332880/7b583584-f2ff-492c-9a83-0b9a7d779c0b)
+
+![bike_demand](https://github.com/Aiswariya-R/case_study_cyclistic/assets/161332880/b602ed27-f0ed-42f5-81be-fd88a8e55081)
+
+![bike_type](https://github.com/Aiswariya-R/case_study_cyclistic/assets/161332880/258bb55a-5a68-457e-80d0-9dedaddb3d74)
 
 ## SHARE
 
