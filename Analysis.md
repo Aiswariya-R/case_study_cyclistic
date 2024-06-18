@@ -1,7 +1,7 @@
 # DESCRIPTIVE ANALYSIS
 
 ## Business Task
-Identify key behavioural differences between members and casual riders.
+Identify the key behavioural differences between members and casual riders.
 
 ## Initial analysis
 ```r
