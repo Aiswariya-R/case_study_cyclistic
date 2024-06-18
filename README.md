@@ -65,7 +65,7 @@ A few of the visualizations are shown here:
 
 ## SHARE
 
-How do members differ from casual riders?
+**How do members differ from casual riders?**
 
 Members and casual riders differ in several aspects:
 
