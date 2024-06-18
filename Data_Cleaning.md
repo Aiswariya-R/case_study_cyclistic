@@ -30,7 +30,7 @@ halfyearly$time <- format(as.POSIXct(halfyearly$started_at), format="%H")
 ```
 The data can only be aggregated at the ride-level, which is too granular. Adding additional columns of data, such as ```day```, ```month```, ```year```,```day_of_week```,```time``` provides additional opportunities to aggregate the data.
 
-## 4. Adding additional columns to prepare for analysis.
+## 4. Adding additional columns to prepare for analysis
 ```r
 # Creating a new column to calculate the length of a ride in seconds
 halfyearly$ride_length <- difftime(halfyearly$ended_at,halfyearly$started_at)
