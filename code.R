@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-
 # Loading all the necessary packages for the analysis
-
 library(tidyverse)
 library(lubridate)
 library(janitor)
@@ -523,4 +520,3 @@ head(5)%>%
 ggplot(aes(x=rides,y=reorder(end_station_name,rides)))+
 geom_col() +
 labs(x="rides",y="end station name", title="Popular end stations of casual riders")
->>>>>>> 80e1e49f42730a23b567bab087cc7c468bce01a4
